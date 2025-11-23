@@ -1,12 +1,12 @@
 # Cinema Ticket Booking (C++)
 
-A small, simple console-based cinema ticket booking application written in modern C++ (C++17/C++20 compatible). This README includes build and run instructions tailored for a minimal C++ project, plus localization in English and Bahasa Indonesia.
+A small, simple console-based cinema ticket booking application written in modern C++ (C++17/C++20 compatible). This README includes build and run instructions tailored for a minimal C++ project, plus localization in English and Bahasa Indonesia. 
 
 ### Features
 - List available movies and schedules
 - View and select seats in a simple seat map
 - Create bookings and save them to a file
-- Basic command-line user interface
+- Basic command-line user interface (not gui)
 - Simple validation of seat availability
 
 (Actual feature set depends on the repository implementation. Adjust as needed.)
